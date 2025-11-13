@@ -30,6 +30,7 @@ source venv/bin/activate  # macOS / Linux
 pip install -r requirements.txt
 Запуск игры
 python3 main.py
+
 Игрок ходит крестиками (X)
 AI ходит ноликами (O)
 Ходы вводятся числами от 1 до 9
